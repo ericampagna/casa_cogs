@@ -1,7 +1,6 @@
-# README
+# Casa COGS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails app to track and calculate Cost of Goods sold on products
 
 Things you may want to cover:
 
